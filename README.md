@@ -35,5 +35,5 @@ title: beta thalassemia
 </ol>
 
     </div>
-<body>
+</body>
 </html>
