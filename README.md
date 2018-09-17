@@ -1,4 +1,5 @@
 # beta thalassemia
+this is a try out.
 ---
 layout: default
 title: beta thalassemia
@@ -33,5 +34,5 @@ title: beta thalassemia
 </ol>
 
     </div>
-</body>
+<body>
 </html>
