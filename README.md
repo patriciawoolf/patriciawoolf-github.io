@@ -2,7 +2,6 @@
 layout: default
 title: beta thalassemia
 ---
-
 <html>
 <head>
     <title> beta-thalassemia </title>
