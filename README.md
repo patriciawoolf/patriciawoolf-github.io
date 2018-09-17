@@ -1,9 +1,4 @@
-# beta thalassemia
-this is a try out.
----
-layout: default
-title: beta thalassemia
----
+# 
 <html>
 <head>
     <title> beta-thalassemia </title>
